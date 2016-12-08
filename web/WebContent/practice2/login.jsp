@@ -11,7 +11,7 @@
 		<center>
 			用户名:<input type="text" name="uname" /><br /><br/> 
 			密&nbsp;码:<input type="password" name="upass" /><br /><br />
-	&nbsp;&nbsp;<input type="submit" value="登陆"> &nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;<input type="image"  width="70px" height="30px"  src="登录.JPG" value="登陆"> &nbsp;&nbsp;&nbsp;
 			 <input type="reset" value="重置"><br/>
 		</center>
 	</form>
