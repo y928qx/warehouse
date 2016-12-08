@@ -6,12 +6,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body style="background-image:url('11111.jpg');"  >
+<body style="background-image:url('11111.jpg');"  ><center>
 <%
 response.setHeader("refresh", "5;url=login.jsp");
 session.invalidate();
 %>
 <p>您已成功退出本系统，5秒后自动跳转回首页</p>
 <p>如果没有跳转，请按<a href="login.jsp">这里</a></p>
+</center>
 </body>
 </html>
