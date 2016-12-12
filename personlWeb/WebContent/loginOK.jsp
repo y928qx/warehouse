@@ -6,11 +6,12 @@
 <iframe ID='ifm2' WIDTH='260' HEIGHT='70' ALIGN='CENTER' MARGINWIDTH='0'
 	MARGINHEIGHT='0' HSPACE='0' VSPACE='0' FRAMEBORDER='0' SCROLLING='NO'
 	src="http://news.sina.com.cn/iframe/weather/340101.html"> </iframe>
+	
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body style="background-image: url('../img/123.jpg');">
+<body style="background-image: url('123.jpg');">
 	<center>
 		<div>
 			<%

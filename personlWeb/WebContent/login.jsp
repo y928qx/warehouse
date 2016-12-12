@@ -21,7 +21,7 @@ $(document).ready(function () {
 </script>
 </head>
 <body
-	style="background-image: url('../img/11111.jpg'); width: 100%; height: 100%;"
+	style="background-image: url('11111.jpg'); width: 100%; height: 100%;"
 	marginheight="220em">
 	<div
 		style="   margin: 0.5em 17.3em; font-family: 仿宋; color: white; font-size: 40px;">
@@ -34,7 +34,7 @@ $(document).ready(function () {
 				用户名:<input type="text" name="uname" style="width: 250px; height: 30px; background-color: #5CBED6 " /><br /><br /> 
 				密&nbsp;码:<input type="password" name="upass" style="width: 250px; height: 30px;background-color: #5CBED6 "   /><br />
 				<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input
-					type="image" width="250px" height="40px" src="../img/button.JPG"
+					type="image" width="250px" height="40px" src="button.JPG"
 					value="登陆"> &nbsp;&nbsp;&nbsp;
 				<!--  <input type="reset" value="重置"><br/> -->
 			</center>
