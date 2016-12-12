@@ -4,17 +4,25 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script type="text/javascript"
-	src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
+src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
 </head>
 <body>
 <p> 这是一个标签  </p>
 <script type="text/javascript">
-function nme1() {
-	$('p').hide()
+function () {
+	$('p').hide(
+	function () {
+		$('p').show()
+	}		
+	)
 }
-function nme2() {
+/* function nme2() {
 	$('p').show()
-}
+} */
+
+
+
+
 
 </script>
 
